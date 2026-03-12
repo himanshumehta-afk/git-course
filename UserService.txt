@@ -5,3 +5,5 @@ Create an avatar for user
 Login and Logout
 
 Changes in feature3 branch
+
+New changes for feature3
