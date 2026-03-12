@@ -6,4 +6,4 @@ Login and Logout
 
 Changes in feature3 branch
 
-New changes for main branch
+New changes for main branch + additional changes in remote repo
