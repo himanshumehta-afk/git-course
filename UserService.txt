@@ -1,9 +1,7 @@
 Get the user data...
 process the data.
 
-Create an avatar for user
-Login and Logout
-
 Changes in feature3 branch
 
 New changes for main branch + additional changes in remote repo
+Some more changes in the new lite branch + removed some features from above
