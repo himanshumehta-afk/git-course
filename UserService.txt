@@ -5,3 +5,5 @@ Create an avatar for user
 Login and Logout
 
 Change1 in main branch
+
+Some code in the main branch to create a merge conflict.
